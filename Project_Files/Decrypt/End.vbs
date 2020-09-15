@@ -1,0 +1,1 @@
+WScript.Echo "Your file has been successfully Decrypted"
